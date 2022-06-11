@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/The-Death-Soul/ZainMusic",
+    "repository": "https://github.com/The-Death-Soul/ZaraMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
