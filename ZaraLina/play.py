@@ -1,4 +1,4 @@
-# TrickyAbhi Created by Herox
+# Zara Created by Zain
 
 import io
 from os import path
